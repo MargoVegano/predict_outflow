@@ -28,3 +28,5 @@
 Во всех файлах столбец `customerID` содержит код клиента.
 
 Информация о договорах актуальна на 1 февраля 2020.
+
+Проект выполнен в Jupiter Notebook на ЯП Python с использованием библиотек, необходимых для анализа данных и машинного обучения: pandas, numpy, matplotlib, seaborn, sklearn, lightgbm, catboost, statsmodels.
